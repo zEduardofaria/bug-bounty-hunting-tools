@@ -22,12 +22,9 @@ Bug Bounty Hunting Tools is a script to install the most popular tools used whil
 - Httprobe
 - Seclists collection
 
-This script also grabs the aliases created and published here:
-https://github.com/nahamsec/recon_profile
-
 
 # Installing
-- git clone https://github.com/nahamsec/bbht.git
-- cd bbht
+- git clone https://github.com/zEduardofaria/bug-bounty-hunting-tools.git
+- cd bug-bounty-hunting-tools
 - chmod +x install.sh
 - ./install.sh
